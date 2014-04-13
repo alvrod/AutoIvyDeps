@@ -1,0 +1,8 @@
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+    <info organisation="MyOrg" module="libone" revision="1.0.3" branch="trunk" />
+	<publications>
+	</publications>	
+
+    <dependencies>
+    </dependencies>
+</ivy-module>

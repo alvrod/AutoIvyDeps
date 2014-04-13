@@ -1,0 +1,9 @@
+<ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
+    <info organisation="MyOrg" module="Library" revision="1.0.3" branch="trunk" />
+	<publications>
+	</publications>	
+
+    <dependencies>
+		<dependency org="AnotherOrg" name="libtwo" rev="1.+" />
+    </dependencies>
+</ivy-module>
