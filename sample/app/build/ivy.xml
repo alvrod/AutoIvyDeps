@@ -1,5 +1,5 @@
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-    <info organisation="MyOrg" module="App" revision="1.0.3" branch="trunk" />
+    <info organisation="MyOrg" module="App" revision="1.0.3" branch="trunk"    />
 	<publications>
 	</publications>	
 
