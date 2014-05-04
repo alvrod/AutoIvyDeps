@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<teamcity-plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xsi:noNamespaceSchemaLocation="urn:shemas-jetbrains-com:teamcity-plugin-v1-xml">
+    <info>
+        <name>autoivydeps</name>
+        <display-name>AutoIvyDeps</display-name>
+        <version>0.1</version>
+        <description>Automatically set up snapshot dependencies from Ivy descriptors</description>
+
+        <vendor>
+            <name>alvrod</name>
+            <url>http://alvrod.com</url>
+        </vendor>
+    </info>
+</teamcity-plugin>
